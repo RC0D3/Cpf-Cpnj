@@ -97,6 +97,12 @@ if(test.IndexOf("Situação: Regular") == -1){ //Se é regular    / if is regula
 
 By:RC0D3
 
+Cpf pode ser um cpnj!!!
+Eu creio
+
+The cpf can be in cnpj format!!
+I believe
+
 
 EXTRAS
 
