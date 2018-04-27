@@ -1,3 +1,5 @@
+// Para CPNJ faça você, abaixo tem um belo exemplo de como funiona, se fizer, manda pra nós adicionar aqui :))
+//For CPNJ not work, here have a exemple of work, crete one for CPNJ and send to we add here :))
 HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create("https://www.situacaocadastral.com.br/");
 //Site para a consulta
 //Site for the consultation
@@ -97,11 +99,7 @@ if(test.IndexOf("Situação: Regular") == -1){ //Se é regular    / if is regula
 
 By:RC0D3
 
-Cpf pode ser um cpnj!!!
-Eu creio
-
-The cpf can be in cnpj format!!
-I believe
+Cpf != Cpnj
 
 
 EXTRAS
